@@ -2,19 +2,19 @@
 layout: post
 title: Media for the new age
 subtitle: A decentralised and distributed future spanning consciousness and space
-cover-img: /assets/img/decentralised.jpg
-thumbnail-img: /assets/img/decentralised.jpg
-share-img: /assets/img/decentralised.jpg
+cover-img: /assets/img/decentralised.png
+thumbnail-img: /assets/img/decentralised.png
+share-img: /assets/img/decentralised.png
 ---
 
-Cover image from https://www.computerhope.com/jargon/d/decentral.htm.
+Cover image from [nesta](https://www.nesta.org.uk/report/introducing-decentralised-futures/why-decentralisation-matters/).
 
 This post is a collected list of tidbits I've written down elsewhere about building a scalable technological base for the future (tech-brain integration, inter-planetary communication).
 
 It's pretty much a consciousness stream. Little is explained and it most likely won't make much sense to the casual reader but I've provided (some) links to referenced resources where possible. Strap in.
 
 See my [previous post about the situation in Ukraine](/2022-02-27-ukraine/)
-I've drawn inspiration from many sources, one of my favourite blogs is http://joeduffyblog.com/2015/11/03/blogging-about-midori/.
+I've drawn inspiration from many sources, one of my favourite blogs is [Joe Duff's blog, especially his posts about Midori](http://joeduffyblog.com/2015/11/03/blogging-about-midori/).
 I'd like this to be a greenfield reimagination of data storage and transfer.
 
 What I want / my vision:
@@ -50,6 +50,6 @@ Rambling:
 - [HVM](https://github.com/Kindelia/HVM) allows for ubiquious paralellism
 
 Resources:
-- https://ipfs.io
-- https://www.cossacklabs.com/blog/secure-search-over-encrypted-data-acra-se/
-- https://github.com/cossacklabs/rd_themis
+- [Interplanetary File System (IPFS)](https://ipfs.io)
+- [Searching encrypted data](https://www.cossacklabs.com/blog/secure-search-over-encrypted-data-acra-se/)
+- [Encryption for Redis database](https://github.com/cossacklabs/rd_themis)
